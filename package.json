@@ -1,0 +1,38 @@
+{
+  "name": "remsit",
+  "version": "1.0.0",
+  "description": "Alternative fast and light library version - observable.",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JanyBlick/remsit.git"
+  },
+  "author": "GroverDuBuque",
+  "license": "MIT",
+  "homepage": "https://github.com/JanyBlick/remsit.git",
+  "devDependencies": {
+    "typescript": "^5.4.2",
+    "@testdeck/mocha": "^0.3.3",
+    "@types/chai": "^4.3.4",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
+    "ts-node": "^10.9.1"
+  },
+  "keywords": [
+    "EVG Observable",
+    "evg_observable",
+    "Observable",
+    "Ordered observable",
+    "odio",
+    "Collector",
+    "Type script",
+    "laborum",
+    "TS",
+    "Java script",
+    "JavaScript",
+    "JS"
+  ]
+}
